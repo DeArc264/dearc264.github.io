@@ -9,15 +9,16 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
-show_frame: false           # adds a gray frame to the site
+show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+minimal: true             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", title: "Home Change"}
-  - {file: "README.md", title: "About Change"}
+  - {file: "JoaoResume", title: "CV"}
+  - {title: "About Me", url: "archive.html"}
+  - {title: "Projects", url: "archive.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/joao-ricardo-llanque-b3b693256/"}
