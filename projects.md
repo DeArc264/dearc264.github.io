@@ -4,8 +4,8 @@ title: "Projects"
 ---
 
 <div>
-  # Projects
-  Some personal projects I worked on or am currently working on.
+  <h1><strong>Projects</strong></h1>
+  <p>Some personal projects I worked on or am currently working on.</p>
 </div>
 
 {% if site.show_excerpts %}
