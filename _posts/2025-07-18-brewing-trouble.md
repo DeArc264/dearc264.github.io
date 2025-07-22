@@ -1,11 +1,11 @@
 ---
-title: "Brewing Trouble"
+title: "Brewing Trouble | PC"
 mathjax: false
 layout: post
 categories: project
 ---
 
-## Brewing Trouble | PC
+## About
 
 <div>
   <p><strong>Brewing Trouble</strong> is game where you will take the role of an alchemist apprentice, and, once again, your teacher had to leave on a travel to the neighbouring country, and now it's up to you to keep business running until he returns. Follow the old recipes, discover new ones, attend requests from the people, but be careful with what kind of requests you accept... Actions have consequences.</p>
@@ -14,7 +14,7 @@ categories: project
 </div>
 
 <div>
-  <h3><strong>My contribution</strong></h3>
+  ###<strong>My contribution</strong>
   <ul>
       <li>Created the crafting system, as well as all the currently avaliable recipes;</li>
       <li>Programmed the stock inventory;</li>
@@ -31,7 +31,7 @@ categories: project
 </div>
 
 <div>
-  <h3><strong>Project info</strong></h3>
+  ###<strong>Project info</strong>
   <ul>
       <li>Technologies - Godot</li>
       <li>Languages - GDScript</li>
