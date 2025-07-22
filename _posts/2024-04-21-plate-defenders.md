@@ -5,7 +5,7 @@ layout: post
 categories: projects
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+![Banner](/assets/img/platedefender_0.png)
 
 ## About
 
@@ -36,3 +36,7 @@ categories: projects
     </ul>
     Game avaliable on <a href="https://reddearc.itch.io/plate-defenders" target="_blank">Itch.io</a>
 </div>
+
+![Banner](/assets/img/platedefender_1.png)
+![Banner](/assets/img/platedefender_2.png)
+![Banner](/assets/img/platedefender_3.png)
