@@ -17,8 +17,8 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "JoaoResume", title: "CV"}
-  - {title: "Projects", url: "projects.md"}
-  - {title: "Contacts", url: "archive.html"}
+  - {title: "Projects", url: "/projects/"}
+  - {title: "Contacts", url: "/contacts/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/joao-ricardo-llanque-b3b693256/"}
