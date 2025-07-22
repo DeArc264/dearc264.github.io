@@ -1,0 +1,32 @@
+---
+title:  "The Loop"
+mathjax: false
+layout: post
+categories: project
+---
+
+(!<--- Image Here --->)
+
+## The Loop | PC
+
+<strong>The Loop</strong> is a short horror experience about being stuck in the same place, going through the same hallway over and over again... Or is it?
+Inspired by Silent Hills P.T., the game features simple puzzles that the player must solve in order to progress until they can escape the hallway.
+
+<div>
+  <h3><strong>My contribution</strong></h3>
+  <ul>
+      <li>Helped programming the loop states and transition between them;</li>
+      <li>Programmed basics of UI for the game;</li>
+      <li>Implemented sounds.</li>
+  </ul>
+</div>
+
+<div>
+  <h3><strong>Project info</strong></h3>
+  <ul>
+      <li>Engine - Unity</li>
+      <li>Languages - C#</li>
+      <li>Management - Git | Trello</li>
+  </ul>
+  <p>Source code avaliable on [GitHub](https://github.com/joaocavacos/MAD_LimitedSpace)</p>
+</div>
