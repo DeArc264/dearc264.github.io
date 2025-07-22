@@ -14,7 +14,7 @@ categories: project
 </div>
 
 <div>
-  ###<strong>My contribution</strong>
+  ### My contribution
   <ul>
       <li>Created the crafting system, as well as all the currently avaliable recipes;</li>
       <li>Programmed the stock inventory;</li>
@@ -31,7 +31,7 @@ categories: project
 </div>
 
 <div>
-  ###<strong>Project info</strong>
+  ### Project info
   <ul>
       <li>Technologies - Godot</li>
       <li>Languages - GDScript</li>
