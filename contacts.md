@@ -3,7 +3,8 @@ layout: default
 title: "Contacts"
 ---
 
-<h1 style="text-align: center;">Contact me!</h1>
+<div>
+<h1>Contact me!</h1>
 
 <p>Feel free to contact me through any of these:</p>
 
@@ -26,3 +27,4 @@ title: "Contacts"
 <p>
 <strong>Phone:</strong> (+351) 911 865 780
 </p>
+</div>
