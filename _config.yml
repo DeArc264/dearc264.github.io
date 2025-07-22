@@ -1,6 +1,6 @@
 title: "DeArc"
 author: "João Ricardo Ribeiro Viegas Llanque"
-description: "Made with Jekyll Themes"
+description: "João Llanque, 2025"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,7 +17,7 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "JoaoResume", title: "CV"}
-  - {title: "Projects", url: "archive.html"}
+  - {title: "Projects", url: "projects.html"}
   - {title: "Contacts", url: "archive.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
