@@ -5,7 +5,7 @@ layout: post
 categories: project
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+![Banner](/assets/img/brewingtrouble_0.png)
 
 ## About
 
@@ -43,3 +43,8 @@ categories: project
   Source code avaliable on <a href="https://github.com/DeArc264/BrewingTrouble/tree/main" target="_blank">GitHub</a>
   Playble prototype avaliable at <a href="https://reddearc.itch.io/brewing-trouble" target="_blank">Itch.io</a>
 </div>
+
+![Banner](/assets/img/brewingtrouble_1.png)
+![Banner](/assets/img/brewingtrouble_2.png)
+![Banner](/assets/img/brewingtrouble_3.png)
+![Banner](/assets/img/brewingtrouble_4.png)
