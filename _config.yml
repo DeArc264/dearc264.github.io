@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "DeArc"
+author: "João Ricardo Ribeiro Viegas Llanque"
+description: "Made with ", url: "https://jekyllthemes.io/theme/contrast"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -9,20 +9,20 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
+show_frame: false           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html"}
-  - {file: "README.md"}
+  - {file: "archive.html", title: "Home Change"}
+  - {file: "README.md", title: "About Change"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/joao-ricardo-llanque-b3b693256/"}
+  - {title: Github, icon: github, url: "https://github.com/dearc264"}
+  - {title: Itchio, icon: headset, url: "https://reddearc.itch.io/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
