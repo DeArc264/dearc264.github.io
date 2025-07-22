@@ -8,10 +8,8 @@ title: "Contacts"
 <p>Feel free to contact me through any of these:</p>
 
 <p>
-  <a href="mailto:jricardollanque@gmail.com">
-    <i class="fas fa-envelope"></i>
-    <strong>jricardollanque@gmail.com</strong>
-  </a>
+  <i class="fas fa-envelope"></i>
+  jricardollanque@gmail.com
 </p>
 
 <p>
