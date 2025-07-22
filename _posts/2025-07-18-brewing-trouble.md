@@ -7,7 +7,6 @@ categories: project
 
 ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
 
-
 ## About
 
 <div>
@@ -15,6 +14,7 @@ categories: project
   <p>This project started in october 2024 and is still going. At this moment it is still a prototype, but soon will have it's own playable demo.</p>
   <p>Inspired by games such as Potion Craft and Paper's Please, with a little bit of Presentable Liberty. It is focused on crafting and management, with the player having to continue his own research of new potions while the world outside reacts to his choices of interaction with the clients.</p>
 </div>
+
 
 <div>
   <h3><strong>My contribution</strong></h3>
