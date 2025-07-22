@@ -16,7 +16,7 @@ categories: projects
 </div>
 
 <div>
-    ###<strong>My contributions</strong>
+    <h3><strong>My contributions</strong></h3>
     <ul>
         <li>Created the concept and original idea for the game mechanics;</li>
         <li>Created all the visuals for the game with Photoshop</li>
@@ -28,7 +28,7 @@ categories: projects
 </div>
 
 <div>
-    ###<strong>Project info</strong></strong>
+    <h3><strong>Project info</strong></strong></h3>
     <ul>
         <li>Technologies - Godot | Photoshop</li>
         <li>Languages - GDScript</li>
